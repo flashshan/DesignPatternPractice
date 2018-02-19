@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Patterns">
+      <UniqueIdentifier>{22b6fb96-2270-4712-9238-cd38108abae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Interface">
+      <UniqueIdentifier>{cd340390-f1b0-4252-99bc-5124ea93fc88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Patterns\Singleton.cpp">
+      <Filter>Patterns</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Interface\ITest.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Bridge.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Builder.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Composite.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Decorator.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Facade.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Factory.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Prototype.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Proxy.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Singleton.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Strategy.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\TemplateMethod.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Singleton - Copy (2).h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Singleton - Copy (3).h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Singleton - Copy (4).h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Command.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Inspector.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\State.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Adapter.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Memento.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Iterator.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\COR.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Mediator.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Interpreter.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Visitor.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns\Flyweight.h">
+      <Filter>Patterns</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
